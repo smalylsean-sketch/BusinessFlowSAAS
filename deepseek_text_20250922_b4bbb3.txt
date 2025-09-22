@@ -1,0 +1,8 @@
+businessflow-saas/
+├── components/
+├── lib/
+├── pages/
+│   ├── api/
+│   └── ...
+├── public/
+└── ...
